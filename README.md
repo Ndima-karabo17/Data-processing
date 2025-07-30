@@ -43,9 +43,9 @@ TASK 3: Data Governance & Security
 2. Competition will be higher another company can optimize their delivery
 3.  routes of using data by reducing fuel costs and improve time to deliver.
 - Trust will be lost together with reputation because everyone can view the
-- systems which hackers can easily attack data.
+ systems which hackers can easily attack data.
 
 3. The authority to define access levels should rest with a Data Governance
-4. Officer or Data Steward, who understands compliance and data policies.
-5. Developers or project managers typically lack the oversight and accountability
-6.  for setting proper data access controls.
+Officer or Data Steward, who understands compliance and data policies.
+ Developers or project managers typically lack the oversight and accountability
+ for setting proper data access controls.
